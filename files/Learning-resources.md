@@ -2,7 +2,7 @@
 
 ## Lessons
 
-- [Data Carpentry Lessons](https://datacarpentry.org/lessons/). Some are worth being highlighted:
+- [Data Carpentry Lessons](https://datacarpentry.org/lessons/).
   - [The Unix Shell](http://swcarpentry.github.io/shell-novice/).
   - [Version control with git](http://swcarpentry.github.io/git-novice).
   - [Programming with R](http://swcarpentry.github.io/r-novice-gapminder).
